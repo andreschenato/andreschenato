@@ -9,8 +9,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
