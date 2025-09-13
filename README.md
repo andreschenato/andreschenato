@@ -1,8 +1,8 @@
-<h2 align="left">Opa, tudo certo?</h2>
+<h2 align="left">Hello World</h2>
 
 ###
 
-<p align="left">Eu me chamo André, sou desenvolvedor Mobile e Backend. Atualmente meu foco é em Flutter no Mobile e PHP no Back, mas estou sempre em busca de conhecer novas linguagens e tecnologias.</p>
+<p align="left">My name is André, I'm a Backend Developer with focus on PHP/Laravel, also familiar with Flutter and Golang.</p>
 
 ###
 
@@ -15,9 +15,9 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="nginx logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="50" alt="golang logo"  />
 </div>
 
 ###
