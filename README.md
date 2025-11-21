@@ -23,8 +23,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreschenato&radius=4&theme=tokyo-night&area=true&order=5&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="222" alt="activity-graph graph"  />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreschenato&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
